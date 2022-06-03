@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">U3AppUsandoWidgets</string>
+    <string name="contacto">Contacto</string>
+    <string name="camisetas">Camisetas</string>
+    <string name="mania">mania ⚽</string>
+    <string name="futbol">futbol</string>
+    <string name="acerca_de">Acerca De</string>
+    <string name="salir">Salir</string>
+    <string name="sobre_la_app">Sobre la App</string>
+    <string name="string_salir" />
+    <string name="string_string_salir">Salir</string>
+    <string name="string_string_string_salir">salir</string>
+    <string name="string_out">salir</string>
+
+    <string-array name="tallas">
+        <item>Talla</item>
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+    </string-array>
+</resources>
